@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tickerlayer": {
+      "type": "http",
+      "url": "https://mcp.tickerlayer.com/mcp"
+    }
+  }
+}

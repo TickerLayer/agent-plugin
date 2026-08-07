@@ -1,0 +1,20 @@
+{
+  "name": "tickerlayer",
+  "interface": {
+    "displayName": "TickerLayer Market Data"
+  },
+  "plugins": [
+    {
+      "name": "tickerlayer",
+      "source": {
+        "source": "local",
+        "path": "."
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Data & Analytics"
+    }
+  ]
+}

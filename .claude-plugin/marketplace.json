@@ -1,0 +1,14 @@
+{
+  "name": "tickerlayer",
+  "owner": {
+    "name": "TickerLayer",
+    "url": "https://tickerlayer.com"
+  },
+  "plugins": [
+    {
+      "name": "tickerlayer",
+      "source": "./",
+      "description": "Real-time and historical market data tools for AI agents via the hosted TickerLayer MCP server."
+    }
+  ]
+}
