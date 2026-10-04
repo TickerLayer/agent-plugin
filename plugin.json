@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "tickerlayer",
-  "version": "0.1.0",
-  "description": "Real-time and historical market data tools for AI agents — quotes, snapshots, OHLCV history, symbol discovery, and market calendars across crypto, forex, stocks, indices, ETFs, commodities, and bonds.",
+  "version": "1.0.0",
+  "description": "Market data for crypto, forex, stocks, indices, ETFs, commodities, perpetual futures and bond yields: latest prices, history, market hours and an interactive markets board.",
   "author": {
     "name": "TickerLayer",
     "url": "https://tickerlayer.com"
@@ -16,8 +16,13 @@
     "stocks",
     "crypto",
     "forex",
-    "mcp",
+    "commodities",
+    "indices",
+    "etfs",
+    "perpetuals",
+    "bonds",
     "quotes",
-    "ohlcv"
+    "ohlcv",
+    "mcp"
   ]
 }

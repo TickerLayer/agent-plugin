@@ -1,6 +1,23 @@
 # Changelog
 
-## 0.1.0 — 2026-08-07
+## 1.0.0 (2026-10-04)
+
+- The skill now covers all 12 tools on the hosted MCP server, including
+  `open_markets_board`, the interactive markets board with charts and search,
+  and `search_symbols`, which powers the board's search box.
+- Perpetual futures: the `perpetuals` asset class, USDT-quoted contract codes,
+  24/7 trading, `mark_price`, and the plan they need.
+- More accurate guidance: history span limits per request, paging and sort
+  order, market calendar times and local dates, what the session and holiday
+  tools need, the 400, 403, 429 and 503 cases, ETF codes, `UK100` for the UK
+  index, and `UK` as an alias of `GB` in the calendar tools.
+- Claude directory listing details: display name, icon, documentation,
+  support, privacy policy and terms of use links, and keywords.
+- README rewritten as the listing description: install steps for Claude,
+  including connecting the bundled connector, and what the plugin sends and
+  where.
+
+## 0.1.0 (2026-08-07)
 
 Initial release.
 

@@ -1,5 +1,6 @@
 {
   "name": "tickerlayer",
+  "description": "TickerLayer's plugin marketplace: market data for AI agents through the hosted TickerLayer MCP server.",
   "owner": {
     "name": "TickerLayer",
     "url": "https://tickerlayer.com"
@@ -8,7 +9,7 @@
     {
       "name": "tickerlayer",
       "source": "./",
-      "description": "Real-time and historical market data tools for AI agents via the hosted TickerLayer MCP server."
+      "description": "Market data for crypto, forex, stocks, indices, ETFs, commodities, perpetual futures and bond yields through the hosted TickerLayer MCP server."
     }
   ]
 }
