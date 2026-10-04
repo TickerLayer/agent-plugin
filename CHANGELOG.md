@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 (2026-10-04)
+
+- Listing text: a clearer short description and README introduction.
+
 ## 1.0.0 (2026-10-04)
 
 - The skill now covers all 12 tools on the hosted MCP server, including

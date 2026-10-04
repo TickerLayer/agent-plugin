@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "tickerlayer",
-  "version": "1.0.0",
-  "description": "Market data for crypto, forex, stocks, indices, ETFs, commodities, perpetual futures and bond yields: latest prices, history, market hours and an interactive markets board.",
+  "version": "1.0.1",
+  "description": "Latest prices, price history and market hours for crypto, forex, stocks, indices, ETFs, commodities, perpetual futures and bond yields, plus an interactive markets board.",
   "author": {
     "name": "TickerLayer",
     "url": "https://tickerlayer.com"

@@ -1,9 +1,14 @@
 # TickerLayer
 
-Market data for Claude and other AI agents. This plugin connects Claude to the
-hosted TickerLayer MCP server and adds a skill that teaches Claude how to use
-it well: which tool fits a question, how symbols are written, and why a quiet
-market is usually closed rather than broken.
+Market data inside Claude. Ask how Bitcoin, gold or the US 10-year yield moved
+today, pull a month of daily bars, or check whether Tokyo is open, and Claude
+answers with data from one consistent API across crypto, forex, stocks,
+indices, ETFs, commodities, perpetual futures and government bond yields.
+
+The plugin connects Claude to the hosted TickerLayer MCP server and adds a
+skill that teaches Claude to use it well: which tool fits a question, how
+symbols are written, and why a quiet market is usually closed rather than
+broken.
 
 Ask in plain language:
 

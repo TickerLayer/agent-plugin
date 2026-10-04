@@ -9,7 +9,7 @@
     {
       "name": "tickerlayer",
       "source": "./",
-      "description": "Market data for crypto, forex, stocks, indices, ETFs, commodities, perpetual futures and bond yields through the hosted TickerLayer MCP server."
+      "description": "Latest prices, price history and market hours for crypto, forex, stocks, indices, ETFs, commodities, perpetual futures and bond yields through the hosted TickerLayer MCP server."
     }
   ]
 }
